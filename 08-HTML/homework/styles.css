@@ -1,5 +1,13 @@
+body{
+    background-image: url("https://c.pxhere.com/photos/4f/6e/cloud_sky_cloudy_cloud_cover_background_background_image_landscape_nature-746701.jpg!d")
+    
+    
+} 
+ 
+
 .divclass h1{
     color: red;
+    
 }
 #thirdDiv{
     height: 600px;
@@ -7,14 +15,22 @@
     background-color: blue;
     padding: 50px;
     border: 5px red; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
 } 
 
 
 #thirdDiv img {
     width: 400px;
     
+    
 }
 .divclass #spanId {
     font-size: 18px;
     margin: 50px;
+}
+.divclass{
+    text-align: center;
 }
