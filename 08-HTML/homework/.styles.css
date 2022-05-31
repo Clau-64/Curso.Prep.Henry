@@ -1,7 +1,7 @@
 :root{font-family: 'Times New Roman', Times, serif;}
 
 body{font-family: 'Times New Roman', Times, serif;
-color: blue;}
+color: rgb(255, 145, 0);}
 header, section {width: 960px;
                  margin: 0 auto;
                 }
