@@ -1,0 +1,13 @@
+'for': Es una de las dos expresiones de Bucles que tiene JS. Generalmente el sofware se ejecuta en BUCLES, evaluando expresiones reiteradamente hasta que devuelve lo que buscamos o se detiene. 
+
+
+'&&': Es un operador logico que significa "Y" ("AND") que evaluara dos expresiones de igualdad
+
+'||': Este operador lógico  para un conjunto de operandos es verdadero si y solo si uno o más de sus operandos son verdaderos. Normalmente se usa con valores booleanos y devuelve un valor booleano. Sin embargo, el ||operador en realidad devuelve el valor de uno de los operandos especificados, por lo que si este operador se usa con valores no booleanos, devolverá un valor no booleano.
+
+
+'!': Significa que estamos preguntando lo contrario de la expresión.
+
+
+
+
