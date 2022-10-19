@@ -1,0 +1,42 @@
+//  * Objetos: 
+//     En js los objetos son como en la vida real, por ejemplo una mesa tiene un color, un diseño, un peso, un material
+//     del que esta hecha, etc. De igual manera los objetos de js pueden tener propiedades que definan sus caracteristicas.
+//     Contienen mucha informacion sobre una sola cosa a diferencia de los arrays que pueden contener multiples elementos
+//     relacionados unos con otros.
+	
+//  * Propiedades:
+//     Como ya vimos un objeto de js tiene propiedades. Una propiedad se puede explicar como una variable adjunta al 
+//     objeto, igual que las variables comunes en js, excepto por el nexo con el objeto.
+     
+//	* Métodos:
+//     Un método es una función la cual es propiedad de un Objeto.
+//     Los métodos sirven para hacer acciones como una ventana emergente, modificar las propiedades de un objeto, añadir 
+//     elementos a una lista, quitarlos, transformar un string en un número entero o decimal, etc.
+     
+//   * Bucle `for…in`:
+//     La instrucción for-in itera sobre todas las propiedades enumerables de un objeto que está codificado por cadenas 
+//     (ignorando los codificados por Símbolos, incluidas las propiedades enumerables heredadas).
+     
+//   * Notación de puntos vs notación de corchetes:
+
+//     Notación de puntos:       
+//     get = objeto.propiedad;
+//     objeto.propiedad = set;
+//     propiedad debe ser un identificador válido de JavaScript, esto es, una secuencia alfanumérica de caracteres, 
+//     incluyendo también el guión bajo ("_") y el signo dolar ("$"), que no puede comenzar por un número. Por ejemplo,
+//     objeto.$1 es válido, mientras que objeto.1 no lo es.
+//     Ejemplo:
+//     document.createElement('pre');
+//     Aquí, el método llamado "createElement" se recupera de document y se le llama.
+
+//     Notacion de corchetes:
+//     get = objeto[nombre_propiedad];
+//     objeto[nombre_propiedad] = set;
+//     nombre_propiedad es una cadena. La cadena no tiene que ser un identificador válido; puede tener cualquier valor, 
+//     por ejemplo "1foo", "!bar!", o incluso " " (un espacio).
+//     Ejemplo:
+//     document['createElement']('pre');
+//     Copiar al portapapeles
+//     Esto hace exactamente lo mismo que el ejemplo anterior.
+
+     

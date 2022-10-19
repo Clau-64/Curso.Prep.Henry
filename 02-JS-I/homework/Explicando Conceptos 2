@@ -1,0 +1,19 @@
+//  * Variables:
+//    Una variable es un contenedor de un valor.
+
+//	* Strings: 
+//    Una string o cadena JavaScript almacena una serie de caracteres como "John Doe". Una cadena puede ser cualquier texto 
+//    entre comillas simples o dobles.
+
+//	* Funciones (argumentos, `return`)
+
+//    argumentos: Los argumentos son las variables que necesitan las funciones. Antes de que pueda utilizarlos, la 
+//    función debe indicar cuántos argumentos necesita y cuál es el nombre de cada argumento. 
+
+//    return: Una función JavaScript puede devolver un resultado si se introduce la sentencia return.
+      
+//	* Declaraciones `if`
+//    if ejecuta una sentencia si una condición específica es verdadera.
+//    
+//	* Valores booleanos (`true`, `false`)
+//    Por definición, un booleano tiene 2 posibles valores: true (verdadero) o false (falso). 

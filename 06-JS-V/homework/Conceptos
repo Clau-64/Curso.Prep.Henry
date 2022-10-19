@@ -1,0 +1,7 @@
+// * `prototype`:
+//   En JavaScript, un objeto puede heredar propiedades de otro objeto. El objeto del que se heredan las propiedades se 
+//   denomina prototipo.
+
+// * _Constructors_ (de Clases)
+//   El método constructor es un metodo especial para crear e inicializar un objeto creado a partir de una clase. El 
+//   código fuente para este ejemplo interactivo se encuentra almacenado en un repositorio de Github.

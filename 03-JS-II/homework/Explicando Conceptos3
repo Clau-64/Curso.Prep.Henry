@@ -1,0 +1,16 @@
+// 'for': Es un bucle que repite el bloque de instrucciones un número prederminado de veces. 
+//        Cada repetición se llama iteración.
+
+
+// '&&': Es un operador lógico que significa "Y"; y que evalúa dos expresiones de igualdad.
+
+
+// '||': Este operador lógico que significa "O" evaluará un conjunto de operandos y determinará que es verdadero 
+//       si y solo si uno o más de sus operandos son verdaderos.
+
+
+
+// '!': Significa que estamos preguntando lo contrario de la expresión.
+
+
+
